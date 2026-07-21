@@ -9,11 +9,9 @@ I'm an Electronics & Communication Engineering student at Punjab Engineering Col
 ### 🎯 Current Focus
 
 - 🚀 **Shipping:** [Stratify](https://stratify-dsa-analytics.streamlit.app/) — a live DSA analytics dashboard using K-Means clustering and real LeetCode data
-- 📚 **Practicing:** Core DSA patterns daily — 136+ LeetCode problems solved and counting, prepping for upcoming internship placements
+- 📚 **Studying:** Core Data Structures & Algorithms for upcoming internship placements
 - 🧠 **Learning:** Applied machine learning pipelines and advanced Python architecture
 - 🤝 **Open to:** Collaborating on open-source data analytics tools and Python-based data products
-
-🎬 **Also:** editing video for PEC's Projection & Design Club — a different kind of building, frame by frame instead of function by function.
 
 ---
 
@@ -45,23 +43,11 @@ I'm an Electronics & Communication Engineering student at Punjab Engineering Col
 
 ---
 
-### 📊 LeetCode Stats
-
-<!-- ⚠️ Replace YOUR_LEETCODE_USERNAME below with your real LeetCode username -->
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=activity" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyamdhawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=priyamdhawan&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamdhawan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamdhawan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
