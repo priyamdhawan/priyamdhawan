@@ -40,9 +40,3 @@
 - Built a Streamlit-based analytics platform that ingests live LeetCode data and generates personalized revision plans using K-Means clustering and trend analysis.
 - Built a persistence layer with SQLite to track historical progress and forecast future performance using linear regression.
 - Integrated LeetCode APIs to analyze topic-wise strengths and solving behavior, powering an interactive dashboard that recommends unsolved problems.
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamdhawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Gurinder's GitHub Stats" />
-</p>
