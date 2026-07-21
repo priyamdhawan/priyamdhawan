@@ -6,6 +6,13 @@
 
 I'm an Electronics & Communication Engineering student at Punjab Engineering College who got pulled into software through data structures and algorithms — and ended up building a full analytics platform around that obsession. I like projects that go all the way from raw data to something people can actually open and use, not just a notebook that runs once.
 
+### 🎯 Current Focus
+
+- 🚀 **Shipping:** [Stratify](https://stratify-dsa-analytics.streamlit.app/) — a live DSA analytics dashboard using K-Means clustering and real LeetCode data
+- 📚 **Studying:** Core Data Structures & Algorithms for upcoming internship placements
+- 🧠 **Learning:** Applied machine learning pipelines and advanced Python architecture
+- 🤝 **Open to:** Collaborating on open-source data analytics tools and Python-based data products
+
 ---
 
 ### 🚀 Featured Project
